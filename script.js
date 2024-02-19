@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code herejg
-	 for (let char of str) {
+	 for (let char of text) {
         if (char !== ' ') {
             return char;
         }
